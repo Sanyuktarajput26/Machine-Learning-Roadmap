@@ -26,3 +26,14 @@ You **cannot** do machine learning without being a solid programmer.
 | **Python Basics** | • Data types<br>• Loops & conditionals<br>• Functions<br>• Classes (basic usage)<br>• File I/O<br>• Virtual environments | • *Programming with Mosh* (YouTube)<br>• *freeCodeCamp Python Course* (YouTube) |
 
 ---
+
+## Stage 3: Data & Scientific Stack
+
+| Library | Key Concepts |
+| :--- | :--- |
+| **NumPy** | • Arrays<br>• Broadcasting<br>• Indexing |
+| **Pandas** | • DataFrames<br>• Filtering<br>• GroupBy<br>• Joins<br>• Missing values |
+| **Matplotlib** | • Basic plotting |
+| **PyTorch** | • Tensors (basic understanding) |
+
+---
