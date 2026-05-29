@@ -16,3 +16,13 @@ This roadmap is designed to guide you from a complete beginner to a job-ready Ma
 | **Calculus** | • Derivatives as rate of change<br>• Partial derivatives<br>• Gradients<br>• Chain rule | *Essence of Calculus* (3Blue1Brown) |
 
 ---
+
+## Stage 2: Programming (2–3 Weeks)
+
+You **cannot** do machine learning without being a solid programmer.
+
+| Skill | Focus Areas | Resources |
+| :--- | :--- | :--- |
+| **Python Basics** | • Data types<br>• Loops & conditionals<br>• Functions<br>• Classes (basic usage)<br>• File I/O<br>• Virtual environments | • *Programming with Mosh* (YouTube)<br>• *freeCodeCamp Python Course* (YouTube) |
+
+---
