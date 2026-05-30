@@ -37,3 +37,9 @@ You **cannot** do machine learning without being a solid programmer.
 | **PyTorch** | • Tensors (basic understanding) |
 
 ---
+
+## Stage 4: Core Machine Learning (≈ 1 Month)
+
+This is where most people mess up by jumping too fast into deep learning.
+
+
