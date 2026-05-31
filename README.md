@@ -42,4 +42,12 @@ You **cannot** do machine learning without being a solid programmer.
 
 This is where most people mess up by jumping too fast into deep learning.
 
+### 1. Core Concepts & Metrics
+
+| Category | Concepts to Master |
+| :--- | :--- |
+| **Foundations** | • Train / Test split<br>• Cross-validation<br>• Overfitting vs Underfitting<br>• Bias–variance tradeoff |
+| **Regression Metrics** | • MSE (Mean Squared Error)<br>• MAE (Mean Absolute Error)<br>• R² Score |
+| **Classification Metrics** | • Accuracy<br>• Precision<br>• Recall<br>• F1 Score<br>• ROC-AUC |
+
 
