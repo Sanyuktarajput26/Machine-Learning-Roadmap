@@ -50,4 +50,19 @@ This is where most people mess up by jumping too fast into deep learning.
 | **Regression Metrics** | • MSE (Mean Squared Error)<br>• MAE (Mean Absolute Error)<br>• R² Score |
 | **Classification Metrics** | • Accuracy<br>• Precision<br>• Recall<br>• F1 Score<br>• ROC-AUC |
 
+### 2. Algorithms (Supervised Learning)
+
+**Practice Rule:** Use `scikit-learn` on **2–3 datasets per algorithm**.
+
+| Algorithm | Focus |
+| :--- | :--- |
+| **Linear Regression** | Simple baseline for continuous values. |
+| **Ridge & Lasso** | Regularization techinques. |
+| **Logistic Regression** | Baseline for classification. |
+| **K-Nearest Neighbors** | Instance-based learning. |
+| **Decision Trees** | Interpretability and splitting logic. |
+| **Random Forest** | Bagging ensemble method. |
+| **Gradient Boosted Trees** | XGBoost / LightGBM (State of the art for tabular data). |
+| **SVM** | Support Vector Machines (Conceptual understanding). |
+
 
