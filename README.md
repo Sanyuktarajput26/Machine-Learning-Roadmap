@@ -65,4 +65,17 @@ This is where most people mess up by jumping too fast into deep learning.
 | **Gradient Boosted Trees** | XGBoost / LightGBM (State of the art for tabular data). |
 | **SVM** | Support Vector Machines (Conceptual understanding). |
 
+### 3. Unsupervised Learning (Basics)
+
+| Topic | Focus |
+| :--- | :--- |
+| **Clustering** | • K-Means clustering |
+| **Dimensionality Reduction** | • PCA (for visualization & preprocessing)<br>• t-SNE / UMAP (optional, visualization only) |
+
+> **Best Course:** *Machine Learning Specialization* — Andrew Ng (Coursera)
+
+---
+
+
+
 
