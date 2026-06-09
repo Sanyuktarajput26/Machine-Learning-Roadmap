@@ -75,6 +75,22 @@ This is where most people mess up by jumping too fast into deep learning.
 > **Best Course:** *Machine Learning Specialization* — Andrew Ng (Coursera)
 
 ---
+## Stage 4: Structured Mini Projects
+
+Use **Kaggle datasets**.
+
+### Project Workflow Table
+
+| Step | Action | Goal |
+| :--- | :--- | :--- |
+| **1** | **Define Problem** | clearly state the problem and the evaluation metric. |
+| **2** | **EDA** | Perform Exploratory Data Analysis to understand data distribution. |
+| **3** | **Baseline Model** | Train a simple model (Logistic/Linear Regression) to set a benchmark. |
+| **4** | **Strong Model** | Train a complex model (Random Forest / XGBoost). |
+| **5** | **Compare** | Evaluate results against the baseline. |
+| **6** | **Reflect** | **Ask specific questions:**<br>• Why did performance change?<br>• Why is one model better suited?<br>• How did hyperparameters affect results? |
+
+---
 
 
 
