@@ -75,7 +75,7 @@ This is where most people mess up by jumping too fast into deep learning.
 > **Best Course:** *Machine Learning Specialization* — Andrew Ng (Coursera)
 
 ---
-## Stage 4: Structured Mini Projects
+## Stage 5: Structured Mini Projects
 
 Use **Kaggle datasets**.
 
