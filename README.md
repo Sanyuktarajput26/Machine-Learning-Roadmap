@@ -91,7 +91,18 @@ Use **Kaggle datasets**.
 | **6** | **Reflect** | **Ask specific questions:**<br>• Why did performance change?<br>• Why is one model better suited?<br>• How did hyperparameters affect results? |
 
 ---
+## Stage 6: Advanced ML & Deep Learning (2–3 Months)
 
+Only start **after** you are comfortable with everything above.
+
+| Topic | Focus Concepts |
+| :--- | :--- |
+| **Neural Network Foundations** | • Perceptron & MLP<br>• Activation functions (ReLU, etc.)<br>• Loss functions (Cross-Entropy, MSE)<br>• Backpropagation (conceptual)<br>• Optimization (SGD, Adam)<br>• Regularization (Dropout, Early stopping)<br>• Train / Validation / Test splits |
+| **Frameworks** | • **PyTorch** (Recommended)<br>• Avoid over-optimizing framework choice. |
+
+**Best Course:** *Deep Learning Specialization* (Coursera)
+
+---
 
 
 
