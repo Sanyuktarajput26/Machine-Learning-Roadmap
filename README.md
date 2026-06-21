@@ -103,6 +103,17 @@ Only start **after** you are comfortable with everything above.
 **Best Course:** *Deep Learning Specialization* (Coursera)
 
 ---
+## Stage 7: Specialization Samplers (To Stand Out)
+
+Pick **ONE** track to do a mini-project in. These are resume differentiators.
+
+| Track | Key Concepts | Sample Tasks |
+| :--- | :--- | :--- |
+| **Computer Vision** | • CNNs<br>• Pretrained ResNet | • Cats vs Dogs classifier<br>• CIFAR-10 subset |
+| **NLP** | • Tokenization & Embeddings<br>• RNN / LSTM (high-level)<br>• Transformers & LLMs<br>• Hugging Face pretrained models | • Sentiment analysis<br>• Text classification |
+| **Time Series** | • Lag features<br>• Rolling statistics<br>• Time-aware splits<br>• Regression-based forecasting | • Forecasting sales or stock trends |
+
+---
 
 
 
