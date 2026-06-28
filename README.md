@@ -115,5 +115,19 @@ Pick **ONE** track to do a mini-project in. These are resume differentiators.
 
 ---
 
+## Stage 8: Projects & Portfolio (Most Important)
+
+If starting over, I would spend **most of my time** here. Build 3–5 serious projects.
+
+| Project Type | Description | Examples |
+| :--- | :--- | :--- |
+| **Business-Style Problem** | Solves a real-world business need. | • Churn prediction<br>• Dynamic pricing model<br>• Fraud detection |
+| **Interpretability Focus** | Focuses on explaining *why* the model predicts what it does. | • Feature importance analysis<br>• SHAP value explanations |
+| **End-to-End System** | Full stack ML engineering. | • Train & save model<br>• Serve via Flask/FastAPI<br>• Frontend or script interface |
+
+> **Best Advice:** Work on something you genuinely care about (Music, Sports, Finance, Climate, Game AI). Recruiters notice the passion.
+
+---
+
 
 
