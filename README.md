@@ -129,5 +129,17 @@ If starting over, I would spend **most of my time** here. Build 3–5 serious pr
 
 ---
 
+## Stage 9: Show Your Work (Non-Negotiable)
+
+Recruiters often reach out only **after** seeing public work.
+
+| Action | Details |
+| :--- | :--- |
+| **Push to GitHub** | Organize repos properly. Don't just upload random scripts. |
+| **Write Blogs/Notebooks** | Documentation should cover:<br>1. What problem you solved<br>2. What worked<br>3. What didn’t<br>4. What you learned |
+| **LinkedIn Sharing** | Share small write-ups and results. |
+
+---
+
 
 
